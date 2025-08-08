@@ -1,0 +1,129 @@
+/* Cooper Font Family */
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-Regular.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-Medium.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-SemiBold.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-SemiBold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-Bold.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-ExtraBold.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-Black.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Cooper Italic variants */
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-Italic.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-MediumItalic.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-SemiBoldItalic.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-SemiBoldItalic.ttf') format('truetype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-BoldItalic.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-ExtraBoldItalic.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-ExtraBoldItalic.ttf') format('truetype');
+  font-weight: 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper';
+  src: url('../../fonts/webfonts/Cooper-BlackItalic.woff2') format('woff2'),
+       url('../../fonts/ttf/Cooper-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
+/* Variable font for better performance (optional) */
+@font-face {
+  font-family: 'Cooper Variable';
+  src: url('../../fonts/webfonts/Cooper[wght].woff2') format('woff2-variations'),
+       url('../../fonts/variable/Cooper[wght].ttf') format('truetype-variations');
+  font-weight: 400 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Cooper Variable';
+  src: url('../../fonts/webfonts/Cooper-Italic[wght].woff2') format('woff2-variations'),
+       url('../../fonts/variable/Cooper-Italic[wght].ttf') format('truetype-variations');
+  font-weight: 400 900;
+  font-style: italic;
+  font-display: swap;
+}
+
